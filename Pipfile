@@ -7,6 +7,9 @@ name = "pypi"
 jupyterlab = "*"
 numpy = "*"
 matplotlib = "*"
+scikit-learn = "*"
+seaborn = "*"
+torch = "*"
 
 [dev-packages]
 
